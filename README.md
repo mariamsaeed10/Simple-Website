@@ -1,4 +1,4 @@
-# Simple-Website
+# Simple-Website-day3
 
 This is a simple personal website project created as part of a web development learning journey.  
 The site includes a header, a login form, a site menu, and an "About Us" section styled with CSS.
